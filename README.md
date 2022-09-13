@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princetechservices
-- 👀 I’m interested in programming with Python and HTML
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in programming with Python and GO
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on beginner level project that will help me improve my understanding on both Python and HTML
 - 📫 How to reach me princetechservices@gmail.com
 - //If you need help with the actual input of code on your project let me know and I would be glad to help but remember I am 
